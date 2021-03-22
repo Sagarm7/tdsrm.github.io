@@ -265,6 +265,7 @@ body{
     display: flex;
     list-style: none;
     
+    
 } 
 .content-right ul li{
    padding-left: 21px;
@@ -301,7 +302,9 @@ body{
 #con1,
 #con2,
 #con3{
-    margin-left: 8px;
+    margin-left: 12px;
+    margin-top: 8px;
+
 }
 #con3:hover{
     background-color: green;
